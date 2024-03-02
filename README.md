@@ -1,1 +1,2 @@
-![my logo](/assets/text.png)
+# 7pxls
+https://7px.lol
